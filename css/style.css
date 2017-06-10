@@ -34,7 +34,7 @@
 	margin:0;
 }
 body {
-	color:#fff;
+	color:#414042;
 	font-family: 'Open Sans', sans-serif;
 	font-weight: 300;
 	position:relative;
@@ -855,7 +855,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed {
 	background:url(../images/map-bro.png) repeat-x 0 100%;
 }
 .contactDetails {
-	background:#474d5d;
+	background:#F2F4F7;
 }
 .contactDetails .container {
 	padding-top:85px;
@@ -867,13 +867,13 @@ ul.portfolioContainer li:hover span.hoverBox .linKed {
 	padding-bottom:15px;
 }
 .contactDetails p {
-	color:#93959c;
+	color:#414042;
 	font-size:13px;
 	line-height:19px;
 	padding-bottom:14px;
 }
 .contactDetails p a {
-	color:#93959c;
+	color:#414042;
 }
 .contactDetails p a:hover {
 	color:#a9abb0;
@@ -883,7 +883,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed {
 	padding-right:15px;
 }
 .conForm input {
-	background:#585f73;
+	background:#fff;
 	color:#93959c;
 	padding:15px 30px;
 	border:none;
@@ -896,7 +896,7 @@ ul.portfolioContainer li:hover span.hoverBox .linKed {
 	margin-right:0px;
 }
 .conForm textarea {
-	background:#585f73;
+	background:#fff;
 	color:#93959c;
 	padding:15px 30px;
 	border:none;
