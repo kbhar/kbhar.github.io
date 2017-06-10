@@ -153,9 +153,11 @@ header {
 	zoom: 1;
 }
 .bannerText h1 {
+	color:whitesmoke
 	text-transform:uppercase;
 }
 .bannerText h2 {
+	color:whitesmoke
 	font-size:34px;
 	text-transform:none;
 }
